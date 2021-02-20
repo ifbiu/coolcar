@@ -1,0 +1,7 @@
+.vscode
+
+*.test
+
+xcx/miniprogram/**/*.js
+
+node_modules
